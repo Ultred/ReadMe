@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>I am a passionate front-end developer with a knack for creating engaging and seamless user experiences through API integration. Proficient in JavaScript, TypeScript, and Angular, I am dedicated to delivering visually appealing, intuitive, and optimized web applications.
+🚀 About Me<br><br>I am a passionate front-end developer with a knack for creating engaging and seamless user experiences through API integration. Proficient in JavaScript, TypeScript, React, and Angular, I am dedicated to delivering visually appealing, intuitive, and optimized web applications.
 
 
 ## 🌐 Socials:
